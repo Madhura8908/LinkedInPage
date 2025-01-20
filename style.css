@@ -100,7 +100,6 @@ label{
     flex-direction: column;
     padding-top: 2px;
     padding-bottom: 2px;
-   
 }
 .icon{
     display: flex;
@@ -292,6 +291,25 @@ label{
     height: 50px;
     border-radius: 50%;
     margin-right: 10px;
+}
+.hr{
+    position: relative;
+   top: 6px;
+   border:1px solid rgba(91, 88, 88, 0.5);
+   margin-right: 90px;
+   display: block;
+}
+.hr1{
+    display: block;
+    position: relative;
+   left: 550px;
+}
+#hr1{
+    display: block;
+    position: relative;
+   left: 595px;
+   bottom:11px ;
+
 }
 .post1 {
     display: flex;
