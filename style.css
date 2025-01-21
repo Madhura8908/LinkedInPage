@@ -125,7 +125,7 @@ label{
 
 }
 .left-side{
-    flex-basis: 20%;
+    flex-basis: 25%;
     align-self: flex-start;
 
 }
@@ -302,12 +302,12 @@ label{
 .hr1{
     display: block;
     position: relative;
-   left: 550px;
+   left: 485px;
 }
 #hr1{
     display: block;
     position: relative;
-   left: 595px;
+   left: 530px;
    bottom:11px ;
 
 }
@@ -564,3 +564,11 @@ video{
     position: sticky;
     top: 80px;
 }  
+.line{
+    rotate: 90deg;
+    position: relative;
+    top: -25px;
+    left: 45px;
+    width: 60px;
+    color: rgb(231, 229, 229);
+}
